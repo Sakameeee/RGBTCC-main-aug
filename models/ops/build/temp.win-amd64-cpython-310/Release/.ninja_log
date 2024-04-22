@@ -1,0 +1,4 @@
+# ninja log v5
+6	25765	7344241692240471	E:/code/python/RGBTCC-main - aug/models/ops/build/temp.win-amd64-cpython-310/Release/code/python/RGBTCC-main - aug/models/ops/src/cpu/ms_deform_attn_cpu.obj	f843afa1d6d11ac5
+202	34123	7344241775642664	E:/code/python/RGBTCC-main - aug/models/ops/build/temp.win-amd64-cpython-310/Release/code/python/RGBTCC-main - aug/models/ops/src/vision.obj	e383a7b3dd1ad695
+198	39389	7344241827977345	E:/code/python/RGBTCC-main - aug/models/ops/build/temp.win-amd64-cpython-310/Release/code/python/RGBTCC-main - aug/models/ops/src/cuda/ms_deform_attn_cuda.obj	b9e35b6bb8f9eee7
