@@ -1,3 +1,2 @@
 ./images
-./ckpts_PVTV2_r224
 ./models/best_model_10.762619034647942.pth
